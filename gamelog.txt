@@ -1,0 +1,5 @@
+18/05/2021 22:50:56: Van a jugar dolar y neitor
+18/05/2021 22:50:56: dolar ha tirado el dado y ha sacado un 3
+18/05/2021 22:50:56: neitor ha tirado el dado y ha sacado un 5
+18/05/2021 22:50:56: neitor va a tirar primero
+18/05/2021 22:50:56: El ganador es dolar
